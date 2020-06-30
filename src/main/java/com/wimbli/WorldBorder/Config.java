@@ -594,6 +594,9 @@ public class Config
 		plugin = master;
 		wbLog = plugin.getLogger();
 
+		// inform the user they're using our fork and to not bother upstream with their support
+		log(Level.WARNING, "This is a continuation by Puremin0rez. Do not seek support from the original author!");
+
 		plugin.reloadConfig();
 		cfg = plugin.getConfig();
 
