@@ -11,6 +11,8 @@ and philosophies of the original project.
 
 This is a list of everything that has been altered from the original from a users perspective:
 * The world generation fill speed has been significantly increased (at the cost of more memory usage)
+* Improvements have been made to better preserving fill progress between restarts / crashes
+* Fixes involving height issues and teleports for border checking tasks
 
 This project is a direct drop in replacement for the original. You can upgrade without any loss or worries.
 
