@@ -1,6 +1,6 @@
 # WorldBorder
 
-**Compatible with Minecraft 1.13+ (Tested on Minecraft 1.16)**
+**Compatible with Minecraft 1.13+ (Tested on Minecraft 1.16.2)**
 
 This is a continuation / maintained version of the original plugin created by BrettFlan.
 
